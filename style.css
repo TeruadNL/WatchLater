@@ -1,4 +1,4 @@
-@meta charset "UTF-8";
+@charset "UTF-8";
 
 body {font-family : Arial, Helvetica, sans-serif; background-color: aliceblue; color: black; margin : 0; padding : 0;
 background: rgba(255, 245, 157, 0.85); /* Soft yellow, inviting and readable */
@@ -77,3 +77,4 @@ p{
     flex-wrap: wrap;
 
 }
+
